@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SphereMatchingRPC/SphereMatchingRPC.vcxproj" Id="7fbe0deb-2293-4a23-ac16-17e14ae5aae2" />
+</Solution>
